@@ -1,0 +1,15 @@
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\obj\Debug\net6.0\RPG-Abstracao-Console.csproj.AssemblyReference.cache
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\obj\Debug\net6.0\RPG-Abstracao-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\obj\Debug\net6.0\RPG-Abstracao-Console.AssemblyInfoInputs.cache
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\obj\Debug\net6.0\RPG-Abstracao-Console.AssemblyInfo.cs
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\obj\Debug\net6.0\RPG-Abstracao-Console.csproj.CoreCompileInputs.cache
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\bin\Debug\net6.0\RPG-Abstracao-Console.exe
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\bin\Debug\net6.0\RPG-Abstracao-Console.deps.json
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\bin\Debug\net6.0\RPG-Abstracao-Console.runtimeconfig.json
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\bin\Debug\net6.0\RPG-Abstracao-Console.dll
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\bin\Debug\net6.0\RPG-Abstracao-Console.pdb
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\obj\Debug\net6.0\RPG-Abstracao-Console.dll
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\obj\Debug\net6.0\refint\RPG-Abstracao-Console.dll
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\obj\Debug\net6.0\RPG-Abstracao-Console.pdb
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\obj\Debug\net6.0\RPG-Abstracao-Console.genruntimeconfig.cache
+C:\Users\Leibniz\source\repos\Bootcamp DIO\RPG-Abstracao-Console\obj\Debug\net6.0\ref\RPG-Abstracao-Console.dll
